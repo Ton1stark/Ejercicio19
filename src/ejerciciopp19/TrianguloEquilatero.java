@@ -4,10 +4,6 @@
  */
 package ejerciciopp19;
 
-/**
- *
- * @author Dell
- */
 public class TrianguloEquilatero {
     int lado;
     
